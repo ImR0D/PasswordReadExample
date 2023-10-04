@@ -5,4 +5,4 @@
 - You'll pass a passphrase in your console and will not be appear when you writting
 
 ## See example how to work
-![example](https://github.com/ImR0D/PasswordReadExample/assets/97006482/ccac0a07-ade6-41f1-8a6e-909a1806af48)
+![example](https://github.com/ImR0D/PasswordReadExample/assets/97006482/0885d584-9fa0-4a02-82ce-b786e587e02c)
